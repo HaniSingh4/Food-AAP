@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10129361178",
+    "project_id": "zomato-ca002",
+    "storage_bucket": "zomato-ca002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10129361178:android:036aa02feceedcc41b84a3",
+        "android_client_info": {
+          "package_name": "com.example.zomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10129361178-bj2earuqqhk4072f1mh5vgqv6mnhoont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFa1V7JoD1NFgUDdKyZlYqF9teY96OXJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10129361178-bj2earuqqhk4072f1mh5vgqv6mnhoont.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
